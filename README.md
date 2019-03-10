@@ -15,4 +15,6 @@ The purpose of this project is to demonstrate how wrangled data from different s
 #### Input Files: 
 raw_data.dat and resume_dataset.txt
 #### Output files: 
-Recommender_System.ipynb and Recommended_Resume.txt which contains the recommended resumes for the first 500 job advertisements. The txt file contains 500 lines and each line of the txt file has the following format: Job_advertisment_id: first_ranked_resume_id, second_ranked_resume_id, …., tenth_ranked_resume_id 
+Recommender_System.ipynb and Recommended_Resume.txt which contains the recommended resumes for the first 500 job advertisements. The txt file contains 500 lines and each line of the txt file has the following format: Job_advertisment_id: first_ranked_resume_id, second_ranked_resume_id, …., tenth_ranked_resume_id
+#### Learning
+Implementation of a full proof Recommender System using Content Based Filtering Technique; Recommender System using Python; Use of Python Libraries such as scikit, sklearn, nltk and itertools; Working knowledge of Unigram, Bigram, N-Gram, Cosine Vector Similarity, Stop-word removal, Regular Expression, XML and JSON Parsing, String Tokenization, Tfidf vectors, Stemming & Lemmatization.
