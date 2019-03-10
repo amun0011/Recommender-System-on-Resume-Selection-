@@ -2,7 +2,7 @@
 This project is aimed to recommend top 500 resumes for a particular job profile. The job profiles from the website have required skills which are compared with the skills from all the resumes from the resume inventory and top 500 of such matches are recommended for a particular job profile so that right candidates can be easily shortlisted.
 #### Developer Name: Arunava Munshi
 #### Developed On: Python 3 and Jupyter notebook
-#### #### Libraries used: 
+#### Libraries used: 
 * String (for String Processng)
 * nltk - natural language toolkit (tokenizer, lemmatizer, stopwords, collocations and probabilities)
 * re (for regular expression, included in Anaconda Python 2.7) 
